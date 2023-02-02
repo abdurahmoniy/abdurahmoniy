@@ -22,7 +22,7 @@
 <a href="https://twitter.com/abduraxmoniy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abduraxmoniy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdurahmoniy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdurahmoniy" height="30" width="40" /></a>
 <a href="https://fb.com/abdurahmoniy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdurahmoniy" height="30" width="40" /></a>
-<a href="https://instagram.com/abdurahmoniy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdurahmoniy" height="30" width="40" /></a>
+<a href="https://instagram.com/abdurakhmoniy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdurakhmoniy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
