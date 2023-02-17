@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [portfolio-000.vercel.app](portfolio-000.vercel.app)
+- 👨‍💻 All of my projects are available at [mypf.vercel.app](portfolio-000.vercel.app)
 
 - 💬 Ask me about **react**
 
