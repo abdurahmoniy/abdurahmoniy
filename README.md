@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurahmoniy&label=Profile+visitors&color=orange&style=flat-square" alt="abdurahmoniy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurahmoniy" alt="abdurahmoniy" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=abdurahmoniy" alt="abdurahmoniy" /></p>
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [mypf.vercel.app](portfolio-000.vercel.app)
+- 👨‍💻 All of my projects are available at [mypf.vercel.app](mypf.vercel.app)
 
 - 💬 Ask me about **react**
 
