@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azizbek</h1>
 <h3 align="center">Fullstack developer from Tashkent</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurahmoniy&label=Profile%20views&color=0e75b6&style=flat" alt="abdurahmoniy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurahmoniy&label=Profile+visitors&color=orange&style=flat-square" alt="abdurahmoniy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurahmoniy" alt="abdurahmoniy" /></a> </p>
 
