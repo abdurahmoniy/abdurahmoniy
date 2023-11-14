@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [mypf.vercel.app](https://mypf.vercel.app)
+- 👨‍💻 All of my projects are available at [abdurahmoniy.github.io](https://abdurahmoniy.github.io)
 
 - 💬 Ask me about **react**
 
